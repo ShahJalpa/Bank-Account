@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=first\ last\ amount
+comment0.target=Account(java.lang.String,\ java.lang.String,\ double)
+comment0.text=\ Constructor\ requiring\ that\ all\ new\ accounts\ must\r\n\ \ have\ initial\ field\ values.\r\n
+comment1.params=acct
+comment1.target=Account(Account)
+comment1.text=\ Copy\ Constructor,\ for\ making\ a\ copy\ w/same\ acct\#.\r\n
+comment2.params=
+comment2.target=int\ getAccountNumber()
+comment2.text=\ Method\ to\ get\ this\ account\ number.\r\n
+comment3.params=
+comment3.target=double\ getBalance()
+comment3.text=\ Method\ to\ get\ this\ account\ balance.\r\n
+comment4.params=amount
+comment4.target=boolean\ deposit(double)
+comment4.text=\ Method\ to\ add\ an\ amount\ to\ this\ account\ balance.\r\n\r\n\ \ Returns\ true\ if\ the\ amount\ is\ positive,\ otherwise\r\n\ \ it\ returns\ false\ without\ making\ a\ deposit.\r\n
+comment5.params=amount
+comment5.target=boolean\ withdraw(double)
+comment5.text=\ Method\ to\ subtract\ an\ amount\ from\ this\ account\ balance.\r\n\r\n\ \ Returns\ true\ if\ the\ amount\ is\ positive\ AND\ <\=\ this\r\n\ \ account\ balance,\ otherwise\ it\ returns\ false\ without\r\n\ \ making\ a\ withdrawal.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\ Method\ to\ return\ the\ String\ representation\ of\ this\ account.\r\n
+numComments=7

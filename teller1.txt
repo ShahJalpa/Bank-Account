@@ -1,0 +1,379 @@
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: p
+You must first create 1 or more new accounts.
+Total amount of all assets: 0.0
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: c
+Enter first name: jalpa
+Enter last name: shah
+Enter opening balance amount: 1
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: c
+Enter first name: ashish
+Enter last name: desai
+Enter opening balance amount: 2
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: c
+Enter first name: shreema
+Enter last name: desai
+Enter opening balance amount: 3
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: c
+Enter first name: shreya
+Enter last name: desai
+Enter opening balance amount: 4
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: c
+Enter first name: madhu
+Enter last name: desai
+Enter opening balance amount: 5
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: c
+Sorry, no new accounts will be accepted. 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: p
+ 
+Account Information
+ 
+           Customer name        Account# Account Balance 
+           shah, jalpa           1000          $1.00
+          desai, ashish          1001          $2.00
+          desai, shreema         1002          $3.00
+          desai, shreya          1003          $4.00
+          desai, madhu           1004          $5.00
+Total amount of all assets: 15.0
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: d
+Enter the account number: 10
+Enter the account number: 100
+Enter the account number: 1000
+Enter amount to deposit: 10
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: p
+ 
+Account Information
+ 
+           Customer name        Account# Account Balance 
+           shah, jalpa           1000         $11.00
+          desai, ashish          1001          $2.00
+          desai, shreema         1002          $3.00
+          desai, shreya          1003          $4.00
+          desai, madhu           1004          $5.00
+Total amount of all assets: 25.0
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: d
+Enter the account number: 1001
+Enter amount to deposit: 10
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: d
+Enter the account number: 1002
+Enter amount to deposit: 10
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: d
+Enter the account number: 1003
+Enter amount to deposit: 10
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: d
+Enter the account number: 1004
+Enter amount to deposit: 10
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: p
+ 
+Account Information
+ 
+           Customer name        Account# Account Balance 
+           shah, jalpa           1000         $11.00
+          desai, ashish          1001         $12.00
+          desai, shreema         1002         $13.00
+          desai, shreya          1003         $14.00
+          desai, madhu           1004         $15.00
+Total amount of all assets: 65.0
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: w
+Enter the account number: 10
+Enter the account number: 100
+Enter the account number: 1000
+Enter amount to withdraw: 10
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: p
+ 
+Account Information
+ 
+           Customer name        Account# Account Balance 
+           shah, jalpa           1000          $1.00
+          desai, ashish          1001         $12.00
+          desai, shreema         1002         $13.00
+          desai, shreya          1003         $14.00
+          desai, madhu           1004         $15.00
+Total amount of all assets: 55.0
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: w
+Enter the account number: 1001
+Enter amount to withdraw: 10
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: w
+Enter the account number: 1002
+Enter amount to withdraw: 10
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: w
+Enter the account number: 1003
+Enter amount to withdraw: 10
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: 1004
+
+		Invalid choice, 
+please try again.
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: w
+Enter the account number: 1004
+Enter amount to withdraw: 10
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: p
+ 
+Account Information
+ 
+           Customer name        Account# Account Balance 
+           shah, jalpa           1000          $1.00
+          desai, ashish          1001          $2.00
+          desai, shreema         1002          $3.00
+          desai, shreya          1003          $4.00
+          desai, madhu           1004          $5.00
+Total amount of all assets: 15.0
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: w
+Enter the account number: 1000
+Enter amount to withdraw: 2
+withdraw failed.
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: w
+Enter the account number: 1001
+Enter amount to withdraw: 3
+withdraw failed.
+ 
+
+    Teller Menu
+-------------------------------------
+C ......(C)reate New Account 
+D ...... Make a (D)eposit
+W ...... Make a (W)ithdrawal
+P ......(P)rint Account List
+Q ...... (Q)uit Program
+-------------------------------------
+Enter option: q
+Thank you for your transaction.
